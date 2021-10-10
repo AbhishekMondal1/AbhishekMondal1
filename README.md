@@ -18,6 +18,39 @@ Here are some ideas to get you started:
 
 Skills: REACT / JS / HTML / CSS / NODEJS / Python / Java / C++ / C
 
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="30px" height="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
+width="30px" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+width="30px" height="30px" />
+</div>
 - 🔭 I’m currently working on this page. 
 
 
@@ -31,6 +64,6 @@ Skills: REACT / JS / HTML / CSS / NODEJS / Python / Java / C++ / C
 
 ![GitHub metrics](https://metrics.lecoq.io/abhishekmondal1)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishekmondal1)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhishekMondal1&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/abhishekmondal1)  
