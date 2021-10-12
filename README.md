@@ -51,7 +51,7 @@ width="30px" height="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 width="30px" height="30px" />
 </div>
-- 🔭 I’m currently working on this page. 
+<!-- - 🔭 I’m currently working on this page. -->
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhishekmondal1)  
